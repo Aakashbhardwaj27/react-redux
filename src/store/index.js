@@ -1,4 +1,4 @@
-import { configureStore ,createAsyncThunk,createSlice} from '@reduxjs/toolkit';
+import { configureStore ,createSlice} from '@reduxjs/toolkit';
 
 const counterSlice = createSlice({
     name: 'counter',
